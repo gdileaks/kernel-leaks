@@ -1,3 +1,4 @@
 LEAKED MBR 
 
 SIZE IN BYTES: 0x80B0 (32944)
+XOR KEY: "F**k Researcher, Go away!!!"
